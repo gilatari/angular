@@ -1,0 +1,13 @@
+<div class="login">
+  <div>
+    <input [(ngModel)]=userName #userNameModel=ngModel required placeholder="user name"
+           [ngClass]="{'invalid' : !userNameModel.valid && submitted}"/>
+    <span *ngIf="!userNameModel.valid && submitted" class="validation">*</span>
+  </div>
+  <div>
+    <input [(ngModel)]=password #passwordModel=ngModel required placeholder="password"
+           [ngClass]="{'invalid' : !passwordModel.valid && submitted}"/>
+    <span *ngIf="!passwordModel.valid && submitted" class="validation">*</span>
+  </div>
+  <button (click)="onLogin()"> login</button>
+</div>

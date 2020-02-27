@@ -1,0 +1,10 @@
+.app nav a {
+  display: block;
+  width: 100px;
+}
+
+.app nav {
+  left: 0;
+}
+
+

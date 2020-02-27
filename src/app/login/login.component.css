@@ -1,0 +1,27 @@
+
+.login{
+  display: block;
+  margin: auto;
+  width: fit-content;
+}
+.login input{
+  margin: 7px;
+  padding: 7px;
+  display: inline-block;
+}
+.login .validation{
+  color: red;
+  margin: 1px;
+}
+.login .invalid{
+  border-color: red;
+}
+.login button{
+  margin: auto;
+  position: absolute;
+  margin: auto;
+  left: 0px;
+  right: 0px;
+  width: 111px;
+  margin-top: 7px;
+}

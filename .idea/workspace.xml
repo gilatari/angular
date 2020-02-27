@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d38b8a7b-1d41-41ee-a2bf-1863cf668663" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/album/album.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/album/album.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/album/album.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/albums/albums.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/albums/albums.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/albums/albums.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/loader/loader.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/loader/loader.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/loader/loader.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/state.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YIou7ldWKEelTRpcfcD7snaTPH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/app/loader" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Gil PC\Desktop\new test\test\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app\album" />
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app\album.ts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app\loader" />
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app\albums" />
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app" />
+      <recent name="C:\Users\Gil PC\Desktop\new test\test\src\app\login" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (test)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d38b8a7b-1d41-41ee-a2bf-1863cf668663" name="Default Changelist" comment="" />
+      <created>1582639689311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582639689311</updated>
+      <workItem from="1582639714391" duration="11042000" />
+      <workItem from="1582708833243" duration="14071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582723461938">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="443" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1582723461938" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1582708926811">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1582708926811" />
+  </component>
+</project>

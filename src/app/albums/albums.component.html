@@ -1,0 +1,7 @@
+<div class="albums">
+  <loader *ngIf="loader"></loader>
+  <album *ngFor="let album of albums"
+         [title]="album.title"
+         [posterUrl]="album.url"
+         [thumbnailUrl]="album.thumbnailUrl"></album>
+</div>

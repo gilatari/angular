@@ -1,0 +1,10 @@
+.album .album-frame {
+  border: 1px solid lightgray;
+  height: 304px;
+  margin: 3px;
+}
+
+.album {
+  width: 22%;
+  display: inline-block;
+}
