@@ -28,14 +28,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 Scss
+
 $color: red;
 
 @mixin my-border($color) {
+
   border: 1px solid $color;
+  
 }
 
 body {
+
   background: $color;
   @include my-border(green);
+  
 }
 
